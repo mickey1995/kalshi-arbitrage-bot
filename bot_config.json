@@ -1,0 +1,12 @@
+{
+    "bet_amount_dollars": 1.0,
+    "max_daily_trades": 100,
+    "max_daily_loss_dollars": 25.0,
+    "entry_minute_min": 8,
+    "entry_minute_max": 11,
+    "max_favorite_price_cents": 85,
+    "min_favorite_price_cents": 60,
+    "series_ticker": "KXBTC15M",
+    "scan_interval_seconds": 5,
+    "dry_run": true
+}
